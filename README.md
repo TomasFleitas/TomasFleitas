@@ -1,4 +1,4 @@
-### Coding my own world ⚡
+####  ⚡⚡ Coding my own world ⚡⚡
 
 <!--
 **TomasFleitas/TomasFleitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
